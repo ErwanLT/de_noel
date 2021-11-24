@@ -7,3 +7,4 @@ Feel free to complete it.
 Already done in :
 - Java
 - Python
+- Rust
