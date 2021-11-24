@@ -6,6 +6,7 @@ Feel free to complete it.
 
 Already done in :
 - C
+- Bash
 - Java
 - NodeJS
 - Python
