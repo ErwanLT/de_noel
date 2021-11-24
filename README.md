@@ -5,10 +5,11 @@ This repo is just to print `Merry Christmas everybody` in different langage.
 Feel free to complete it.
 
 Already done in :
-- C
 - Bash
+- C
+- GoLang
 - Java
 - NodeJS
 - Python
 - Rust
-- GoLang
+
