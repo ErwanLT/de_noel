@@ -10,6 +10,7 @@ Already done in :
 - GoLang
 - Java
 - Javascript
+- Lolcode
 - NodeJS
 - Python
 - Rust
