@@ -9,10 +9,9 @@ Already done in :
 - [![](https://img.shields.io/badge/-C-grey?style=plastic&logo=c&logoColor=lightblue)](https://devdocs.io/c/ "C")
 - Cobol
 - [![](https://img.shields.io/badge/-Dart-grey?style=plastic&logo=dart&logoColor=blue)](https://dart.dev/ "Dart")
-- [![](https://img.shields.io/badge/-Go-grey?style=plastic&logo=go&logoColor=9cf)](https://dart.dev/ "Dart")
-- [![](https://img.shields.io/badge/-Dart-grey?style=plastic&logo=dart&logoColor=blue)](https://go.dev/ "Go")
+- [![](https://img.shields.io/badge/-Go-grey?style=plastic&logo=go&logoColor=9cf)](https://go.dev/ "Go")
 - [![](https://img.shields.io/badge/-Groovy-grey?style=plastic&logo=apachegroovy&logoColor=9cf)](http://www.groovy-lang.org/ "Groovy")
-- [![](https://img.shields.io/badge/-Haskell-grey?style=plastic&logo=haskell&logoColor=blueviolet)](http://www.groovy-lang.org/ "Groovy")
+- [![](https://img.shields.io/badge/-Haskell-grey?style=plastic&logo=haskell&logoColor=blueviolet)](https://www.haskell.org/ "Haskell")
 - [![](https://img.shields.io/badge/-Java-grey?style=plastic&logo=java)](https://www.java.com/ "java")
 - [![](https://img.shields.io/badge/-JavaScript-grey?style=plastic&logo=javascript)](https://www.javascript.com/ "javascript")
 - Lolcode
