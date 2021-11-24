@@ -7,6 +7,7 @@ Feel free to complete it.
 Already done in :
 - C
 - Java
+- NodeJS
 - Python
 - Rust
 - GoLang
