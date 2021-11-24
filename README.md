@@ -9,6 +9,7 @@ Already done in :
 - C
 - GoLang
 - Java
+- Javascript
 - NodeJS
 - Python
 - Rust
