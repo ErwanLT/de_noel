@@ -6,6 +6,7 @@ Feel free to complete it.
 
 Already done in :
 - [![](https://img.shields.io/badge/-Bash-grey?style=plastic&logo=gnubash&logoColor=green)](https://doc.ubuntu-fr.org/bash "Bash")
+- Brainfuck
 - [![](https://img.shields.io/badge/-C-grey?style=plastic&logo=c&logoColor=lightblue)](https://devdocs.io/c/ "C")
 - Cobol
 - [![](https://img.shields.io/badge/-Dart-grey?style=plastic&logo=dart&logoColor=blue)](https://dart.dev/ "Dart")
