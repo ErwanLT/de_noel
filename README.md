@@ -17,6 +17,10 @@ Already done in :
 - Lolcode
 - [![](https://img.shields.io/badge/-Nim-grey?style=plastic&logo=nim&logoColor=yellow)](https://nim-lang.org/ "Nim")
 - [![](https://img.shields.io/badge/-NodeJs-grey?style=plastic&logo=node.js&logoColor=green)](https://nodejs.org/en/ "Node JS")
+- Pascal
+- [![](https://img.shields.io/badge/-PHP-grey?style=plastic&logo=php&logoColor=blue)](https://www.php.net/ "PHP")
 - [![](https://img.shields.io/badge/-Python-grey?style=plastic&logo=python&logoColor=yellow)](https://www.python.org/ "Python")
+- [![](https://img.shields.io/badge/-Ruby-grey?style=plastic&logo=ruby&logoColor=red)](https://www.ruby-lang.org/en/ "Ruby")
 - [![](https://img.shields.io/badge/-Rust-grey?style=plastic&logo=rust&logoColor=black)](https://www.rust-lang.org/fr "Rust")
+- verilog
 
