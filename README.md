@@ -23,5 +23,6 @@ Already done in :
 - [![](https://img.shields.io/badge/-Python-grey?style=plastic&logo=python&logoColor=yellow)](https://www.python.org/ "Python")
 - [![](https://img.shields.io/badge/-Ruby-grey?style=plastic&logo=ruby&logoColor=red)](https://www.ruby-lang.org/en/ "Ruby")
 - [![](https://img.shields.io/badge/-Rust-grey?style=plastic&logo=rust&logoColor=black)](https://www.rust-lang.org/fr "Rust")
+- [![](https://img.shields.io/badge/-Scala-grey?style=plastic&logo=scala&logoColor=red)](https://www.scala-lang.org/ "Scala")
 - verilog
 
